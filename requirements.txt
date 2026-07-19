@@ -1,5 +1,6 @@
 streamlit
-scikit-learn
-feedparser
 pandas
 numpy
+scikit-learn
+matplotlib
+feedparser
